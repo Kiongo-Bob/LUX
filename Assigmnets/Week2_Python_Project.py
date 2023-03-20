@@ -15,5 +15,9 @@ print(sum_loop)
 sum_arr = np.sum(rand_int_arr)
 print(sum_arr)
 
+<<<<<<< HEAD
 print(sum_loop == sum_arr)
 
+=======
+print(sum_loop == sum_arr)
+>>>>>>> e8b22a11315acb5f1754f3c51be05919391d6782
